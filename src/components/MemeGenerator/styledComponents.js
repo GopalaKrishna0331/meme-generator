@@ -93,6 +93,7 @@ export const ImageContainer = styled.div`
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+  font-family: 'Open Sans';
   @media screen and (min-width: 768px) {
     width: 50%;
   }
